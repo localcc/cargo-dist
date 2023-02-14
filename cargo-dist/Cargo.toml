@@ -1,10 +1,10 @@
 [package]
 name = "cargo-dist"
 description = "Shippable application packaging for Rust"
-version = "0.0.2"
+version = "0.0.2-exebundle"
 edition = "2021"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/axodotdev/cargo-dist"
+repository = "https://github.com/localcc/cargo-dist"
 readme = "../README.md"
 exclude = [
   "book/*",
